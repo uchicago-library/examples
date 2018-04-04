@@ -2,7 +2,7 @@
   "name": "examples",
   "repository": {
     "type": "git",
-    "url": "git://github.com/UniversalViewer/examples"
+    "url": "git://github.com/uchicago-library/examples"
   },
   "authors": [
     "edsilv <e.silverton@gmail.com>"
